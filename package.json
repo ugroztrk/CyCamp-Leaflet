@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@geoman-io/leaflet-geoman-free": "^2.13.0"
+  }
+}
